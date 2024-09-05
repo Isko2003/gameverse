@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Isko2003/gameverse/static/css/main.c50a1f07.css",
+    "main.js": "/Isko2003/gameverse/static/js/main.76ac9cfd.js",
+    "static/media/game-logo.png": "/Isko2003/gameverse/static/media/game-logo.80cd8f7ae69ac6fb99ff.png",
+    "static/media/AdAsset_100.webp": "/Isko2003/gameverse/static/media/AdAsset_100.7578c37516465a2da95a.webp",
+    "static/media/AdAsset_96.webp": "/Isko2003/gameverse/static/media/AdAsset_96.4b091cc340d424c710fd.webp",
+    "static/media/AdAsset_105.webp": "/Isko2003/gameverse/static/media/AdAsset_105.d219dcca37d8f42b687d.webp",
+    "static/media/EA_2907.jpeg": "/Isko2003/gameverse/static/media/EA_2907.e2740f47ccd90d5ddd26.jpeg",
+    "static/media/steps_bg.webp": "/Isko2003/gameverse/static/media/steps_bg.ba12c763893f464bbb33.webp",
+    "static/media/call_of_duty.jpeg": "/Isko2003/gameverse/static/media/call_of_duty.fd854b1072e37f28498b.jpeg",
+    "static/media/AdAsset_101.webp": "/Isko2003/gameverse/static/media/AdAsset_101.c7a4d389f6d65991d8ba.webp",
+    "static/media/slick.svg": "/Isko2003/gameverse/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Isko2003/gameverse/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Isko2003/gameverse/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Isko2003/gameverse/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Isko2003/gameverse/index.html",
+    "main.c50a1f07.css.map": "/Isko2003/gameverse/static/css/main.c50a1f07.css.map",
+    "main.76ac9cfd.js.map": "/Isko2003/gameverse/static/js/main.76ac9cfd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c50a1f07.css",
+    "static/js/main.76ac9cfd.js"
+  ]
+}
