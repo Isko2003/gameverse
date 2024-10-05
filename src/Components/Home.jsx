@@ -19,7 +19,7 @@ import RiseOfRonin from './RiseOfRonin'
 import Search from './Search'
 import Aboutus from './Aboutus'
 import MultipleItems from './MultipleItems';
-import "slick-carousel/slick/slick";
+import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import MultipleOnSale from './MultipleOnSale'
 import MultipleConsoles from './MultipleConsoles'
