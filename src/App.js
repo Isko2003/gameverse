@@ -79,7 +79,7 @@ import Ps4Slim from './Components/Ps4Slim';
 import SellCart from './Components/SellCart';
 import Aboutus from './Components/Aboutus';
 import MultipleItems from './Components/MultipleItems';
-import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick";
 import "slick-carousel/slick/slick-theme.css";
 
 function App() {
